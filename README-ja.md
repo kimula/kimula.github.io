@@ -1,4 +1,4 @@
-# cimura.github.io
+# kimula takesi
 
 ## 経歴
 - 2018 北海道大学 工学部 卒業
@@ -12,4 +12,7 @@
 - 実用英語技能検定 凖1級 (2021)
 
 ## 技術
+- JavaScript (Node.js)
+- Sass
+
 ## 興味
