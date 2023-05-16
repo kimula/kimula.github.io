@@ -1,4 +1,4 @@
-# <ruby>木村<rt>kimura</rt></ruby> <ruby>武志<rt>takesi</rt></ruby>
+<ruby>木村<rt>kimura</rt></ruby> <ruby>武志<rt>takesi</rt></ruby>
 
 ## 経歴
 - 2020 ヤフー株式会社 入社
